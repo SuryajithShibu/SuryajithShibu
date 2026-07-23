@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Your Custom Generated Capsule Render Banner -->
-![Header Banner](https://vercel.app)
+![Header Banner](https://capsule-render.vercel.app/api?type=rounded&height=279&color=gradient&text=Suryajith%20Shibu&animation=twinkling&fontAlign=53&fontAlignY=48&section=header)
 
-<!-- Updated Typing SVG with Pranay's Exact Soft Blue Color Matching Your Image Reference -->
+<!-- Fully functional custom gradient banner tracking Pranay's exact engine setup -->
 [![Typing SVG](https://demolab.com)](https://git.io)
 
 <br/>
