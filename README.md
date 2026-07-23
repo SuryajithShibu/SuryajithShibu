@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Fully functional custom gradient banner tracking Pranay's exact engine setup -->
-<img src="https://demolab.com" width="100%" alt="Suryajith Shibu Banner" />
+<!-- Part 1: Fully functional custom gradient banner matching Pranay's text structure -->
+[![Typing SVG](https://demolab.com)](https://git.io)
 
 <br/>
 
-<!-- Live Profile Status Trackers -->
-![](https://shields.io)
-![](https://shields.io)
-![](https://shields.io)
+<!-- Live Profile Status Trackers fixed with active metrics paths -->
+![GitHub profile views](https://komarev.com)
+![GitHub last commit](https://shields.io)
 
 ---
 
@@ -31,7 +30,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <!-- High-Quality Native Giphy Workspace Asset -->
+      <!-- Part 1: Fixed Giphy asset link to point directly to a raw image stream -->
       <img src="https://giphy.com" width="95%"/>
     </td>
   </tr>
@@ -43,7 +42,7 @@
 
 ## 🌐 Connect with Me
 
-<!-- Social Integration Elements -->
+<!-- Part 2: Connect badges mapped to functional absolute link URLs -->
 <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://x.com" target="_blank"><img src="https://shields.io" alt="Twitter"/></a>&nbsp;&nbsp;
 <a href="mailto:suryajithshibu@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"/></a>&nbsp;&nbsp;
@@ -53,6 +52,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<!-- Part 2: Custom style badges targeting Pranay's dark badge framing looks -->
 ### 💻 Languages
 ![Python](https://shields.io)
 ![JavaScript](https://shields.io)
@@ -77,8 +77,16 @@
 
 ## 📊 GitHub Statistics
 
-<!-- Routed through stable mirror nodes to prevent broken image flags -->
+<!-- Part 3: Live interactive user cards styled to match Pranay's exact blue color theme -->
 <img src="https://vercel.app" width="48%" />
 <img src="https://vercel.app" width="48%" />
+
+<!-- Part 3: Activity Graph matching Pranay's exactly -->
+<br/>
+<img src="https://vercel.app" width="100%" />
+
+<!-- Part 3: Random Dev Quote Widget matching Pranay's exactly -->
+<br/>
+<img src="https://vercel.app" width="100%" />
 
 </div>
