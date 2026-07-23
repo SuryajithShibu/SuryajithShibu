@@ -1,11 +1,14 @@
 <div align="center">
 
+<!-- Your Custom Generated Capsule Render Banner -->
+![Header Banner](https://capsule-render.vercel.app/api?type=rounded&height=279&color=gradient&text=Suryajith%20Shibu&animation=twinkling&fontAlign=53&fontAlignY=48&section=header)
+
 <!-- Fully functional custom gradient banner tracking Pranay's exact engine setup -->
 [![Typing SVG](https://demolab.com)](https://git.io)
 
 <br/>
 
-<!-- Live Profile Status Trackers fixed with active metrics paths -->
+<!-- Live Profile Status Trackers -->
 ![GitHub profile views](https://komarev.com)
 ![GitHub last commit](https://shields.io)
 
@@ -42,7 +45,7 @@
 
 ## 🌐 Connect with Me
 
-<!-- Connect badges mapped to functional absolute link URLs -->
+<!-- Social Integration Elements -->
 <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://x.com" target="_blank"><img src="https://shields.io" alt="Twitter"/></a>&nbsp;&nbsp;
 <a href="mailto:suryajithshibu@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"/></a>&nbsp;&nbsp;
@@ -76,15 +79,15 @@
 
 ## 📊 GitHub Statistics
 
-<!-- Live interactive stats cards styled to match your setup -->
+<!-- Routed through stable mirror nodes to prevent broken image flags -->
 <img src="https://vercel.app" width="48%" />
 <img src="https://vercel.app" width="48%" />
 
-<!-- Activity Graph matching Pranay's exactly -->
+<!-- Contribution Activity Metrics Graph -->
 <br/>
 <img src="https://vercel.app" width="100%" />
 
-<!-- Random Dev Quote Widget matching Pranay's exactly -->
+<!-- Dynamic Developer Quote Generator Box -->
 <br/>
 <img src="https://vercel.app" width="100%" />
 
