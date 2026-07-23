@@ -1,16 +1,12 @@
-<div align="center">
+[<div align="center">
 
 <!-- Your Custom Generated Capsule Render Banner -->
 ![Header Banner](https://capsule-render.vercel.app/api?type=rounded&height=279&color=gradient&text=Suryajith%20Shibu&animation=twinkling&fontAlign=53&fontAlignY=48&section=header)
 
-<!-- Fully functional custom gradient banner tracking Pranay's exact engine setup -->
-[![Typing SVG](https://demolab.com)](https://git.io)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=39&pause=1000&width=900&height=160&lines=Hey+there!+%F0%9F%91%8B+I'm+Suryajith;Python+%26+Backend+Developer.+++Building+;NLP+Vector+Search+Architectures;Optimizing+Microservices+%26+Databases)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- Live Profile Status Trackers -->
-![GitHub profile views](https://komarev.com)
-![GitHub last commit](https://shields.io)
 
 ---
 
@@ -27,14 +23,14 @@
         <li>💡 Love exploring semantic search matching pipelines and complex backend infrastructure optimizations.</li>
         <li>🎯 <b>2026 Goals</b>: Refine large index querying performance and contribute actively to robust open-source project frameworks.</li>
         <li>💬 Ask me about <b>Python, Backend Architecture, PostgreSQL, and Data Engineering</b>.</li>
-        <li>📫 Reach me at: <a href="mailto:suryajithshibu@gmail.com"><b>suryajithshibu@gmail.com</b></a></li>
+        <li>📫 Reach me at: <a href="mailto:suryajithshibu2480@gmail.com"><b>suryajithshibu2480@gmail.com</b></a></li>
         <li>⚡ Fun fact: I debug my code by explaining it line-by-line to an empty coffee mug!</li>
         <li>🌍 Based in <b>India 🇮🇳</b></li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
       <!-- High-Quality Native Giphy Workspace Asset -->
-      <img src="https://giphy.com" width="95%"/>
+      <img src="https://githubusercontent.com" width="95%"/>
     </td>
   </tr>
 </table>
@@ -92,3 +88,4 @@
 <img src="https://vercel.app" width="100%" />
 
 </div>
+](https://capsule-render.vercel.app/api?type=rounded&height=279&color=gradient&text=Suryajith%20Shibu&animation=twinkling&fontAlign=53&fontAlignY=48&section=header)
