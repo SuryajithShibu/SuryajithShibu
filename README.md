@@ -43,8 +43,8 @@
 
 <!-- Social Integration Elements -->
 <a href="https://www.linkedin.com/in/suryajith-shibu-33a829372" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:suryajithshibu@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="[https://github.io](https://github.com/SuryajithShibu)" target="_blank"><img src="https://shields.io" alt="Portfolio"/></a>
+<a href="mailto:suryajithshibu2480@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="[https://suryajithshibu.github.io/portfolio-site/]([https://github.com/SuryajithShibu)](https://suryajithshibu.github.io/portfolio-site/)" target="_blank"><img src="https://shields.io" alt="Portfolio"/></a>
 
 ---
 
