@@ -4,7 +4,7 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=rounded&height=279&color=gradient&text=Suryajith%20Shibu&animation=twinkling&fontAlign=53&fontAlignY=48&section=header)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=39&pause=1000&width=900&height=160&lines=Hey+there!+%F0%9F%91%8B+I'm+Suryajith;Python+%26+Backend+Developer.+++Building+;NLP+Vector+Search+Architectures;Optimizing+Microservices+%26+Databases)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=39&pause=1000&width=900&height=160&lines=Hey+there!+%F0%9F%91%8B+I'm+Suryajith;Python+%26+Backend+Developer.+++Building+;NLP+Vector+Search+Architectures;Optimizing+Microservices+%26+Databases)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@
     </td>
     <td width="40%" valign="top" align="center">
       <!-- High-Quality Native Giphy Workspace Asset -->
-      <img src="https://githubusercontent.com" width="95%"/>
+      <img src="coding.gif" width="300%"/>
     </td>
   </tr>
 </table>
@@ -42,10 +42,9 @@
 ## 🌐 Connect with Me
 
 <!-- Social Integration Elements -->
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://x.com" target="_blank"><img src="https://shields.io" alt="Twitter"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/suryajith-shibu-33a829372" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:suryajithshibu@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://github.io" target="_blank"><img src="https://shields.io" alt="Portfolio"/></a>
+<a href="[https://github.io](https://github.com/SuryajithShibu)" target="_blank"><img src="https://shields.io" alt="Portfolio"/></a>
 
 ---
 
