@@ -3,7 +3,7 @@
 <!-- Your Custom Generated Capsule Render Banner -->
 ![Header Banner](https://vercel.app)
 
-<!-- Fully functional custom gradient banner tracking Pranay's exact engine setup -->
+<!-- Updated Typing SVG with Pranay's Exact Soft Blue Color Matching Your Image Reference -->
 [![Typing SVG](https://demolab.com)](https://git.io)
 
 <br/>
