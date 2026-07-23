@@ -3,8 +3,8 @@
 <!-- Your Custom Generated Capsule Render Banner -->
 ![Header Banner](https://vercel.app)
 
-<!-- Updated Typing SVG with Your Exact Lines and Color Configuration -->
-[![Typing SVG](https://demolab.com)](https://git.io/typing-svg)
+<!-- Fully functional custom gradient banner tracking Pranay's exact engine setup -->
+[![Typing SVG](https://demolab.com)](https://git.io)
 
 <br/>
 
