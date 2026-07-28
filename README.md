@@ -37,28 +37,37 @@
 
 ---
 
+---
+
 <div align="center">
 
 ## 🌐 Connect with Me
 
 <br/>
 
-<!-- Using your precise layout adjusted for GitHub safe rendering -->
-<div class="footer-connect-column">
-    <div class="footer-social-row">
-        <!-- GitHub -->
-        <a href="https://github.com/SuryajithShibu" target="_blank" class="f-social-box" aria-label="GitHub">
-            <img src="https://simpleicons.org" width="28" height="28" alt="GitHub" />
-        </a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/suryajith-shibu-33a829372/" target="_blank" class="f-social-box" aria-label="LinkedIn">
-            <img src="https://simpleicons.org" width="28" height="28" alt="LinkedIn" />
-        </a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <!-- Mail -->
-        <a href="mailto:suryajithshibu2480@gmail.com" class="f-social-box" aria-label="Email">
-            <img src="https://simpleicons.org" width="28" height="28" alt="Email" />
-        </a>
-    </div>
+<!-- Added the critical table tags and increased size to 50px -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://github.com" target="_blank">
+        <img src="./images-removebg-preview.png" width="50" height="50" alt="GitHub" />
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>
+      <a href="https://linkedin.com" target="_blank">
+        <img src="./images-2-removebg-preview.png" width="50" height="50" alt="LinkedIn" />
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>
+      <a href="mailto:suryajithshibu2480@gmail.com">
+        <img src="./images-3-removebg-preview.png" width="50" height="50" alt="Email" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
