@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <!-- Your Custom Generated Capsule Render Banner -->
 ![Header Banner](https://capsule-render.vercel.app/api?type=rounded&height=279&color=gradient&text=Suryajith%20Shibu&animation=twinkling&fontAlign=53&fontAlignY=48&section=header)
@@ -41,10 +41,27 @@
 
 ## 🌐 Connect with Me
 
-<!-- Social Integration Elements -->
-<a href="https://www.linkedin.com/in/suryajith-shibu-33a829372" target="_blank"><img src="https://shields.io" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:suryajithshibu2480@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="[https://suryajithshibu.github.io/portfolio-site/]([https://github.com/SuryajithShibu)](https://suryajithshibu.github.io/portfolio-site/)" target="_blank"><img src="https://shields.io" alt="Portfolio"/></a>
+<br/>
+
+<!-- Using your precise layout adjusted for GitHub safe rendering -->
+<div class="footer-connect-column">
+    <div class="footer-social-row">
+        <!-- GitHub -->
+        <a href="https://github.com/SuryajithShibu" target="_blank" class="f-social-box" aria-label="GitHub">
+            <img src="https://simpleicons.org" width="28" height="28" alt="GitHub" />
+        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/suryajith-shibu-33a829372/" target="_blank" class="f-social-box" aria-label="LinkedIn">
+            <img src="https://simpleicons.org" width="28" height="28" alt="LinkedIn" />
+        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- Mail -->
+        <a href="mailto:suryajithshibu2480@gmail.com" class="f-social-box" aria-label="Email">
+            <img src="https://simpleicons.org" width="28" height="28" alt="Email" />
+        </a>
+    </div>
+</div>
+
+---
 
 ---
 
