@@ -72,18 +72,26 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SuryajithShibu&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SuryajithShibu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=SuryajithShibu&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 
 <br/>
 
 ### 📈 Contribution Activity Graph
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Suryajith's Activity Graph" />
-</p>
+[![Suryajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuryajithShibu&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ### ✍️ My Point Of View
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
+
+<div align="center">
+
+✨ Show some ❤️ by starring repositories you find interesting! ✨
+
+</div>
+
+---
 
