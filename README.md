@@ -57,14 +57,15 @@
 ###  💻  Languages & Frameworks
 <img src="./Python.png" width="30" height="30" valign="middle" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./javascript.png" width="25" height="25" valign="middle" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./HTML5.png" width="30" height="30" valign="middle" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./CSS5.png" width="35" height="35" valign="middle" alt="CSS" />
 
-### 🚀 Frameworks & Libraries
-<img src="./FastApi.png" width="85" height="82" valign="middle" alt="FastApi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./NodeJs.png" width="35" height="42" valign="middle" alt="NodeJs" />
-
 ### 🗄️ Databases & Cloud
 <img src="./Postgre.png" width="35" height="35" valign="middle" alt="Postgre" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./ElasticSearch.png" width="30" height="30" valign="middle" alt="ElasticSearch" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Redis.png" width="20" height="20" valign="middle" alt="Redis" />
 
 ### ⚙️ DevOps & Tools
 <img src="./Github.png" width="30" height="30" valign="middle" alt="Github" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Docker.png" width="35" height="35" valign="middle" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./VSCode.png" width="30" height="30" valign="middle" alt="VSCode" />
+
+### 🚀 Frameworks & Libraries
+<img src="./FastApi.png" width="85" height="92" valign="middle" alt="FastApi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./NodeJs.png" width="35" height="42" valign="middle" alt="NodeJs" />
+
 
 </div>
 
