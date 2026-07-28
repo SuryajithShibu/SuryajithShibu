@@ -3,6 +3,7 @@
 <!-- Your Custom Generated Capsule Render Banner -->
 ![Header Banner](https://capsule-render.vercel.app/api?type=rounded&height=279&color=gradient&text=Suryajith%20Shibu&animation=twinkling&fontAlign=53&fontAlignY=48&section=header)
 
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=39&pause=1000&width=900&height=160&lines=Hey+there!+%F0%9F%91%8B+I'm+Suryajith;Python+%26+Backend+Developer.+++Building+;NLP+Vector+Search+Architectures;Optimizing+Microservices+%26+Databases)](https://git.io/typing-svg)
 
