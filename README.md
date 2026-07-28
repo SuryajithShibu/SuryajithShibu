@@ -54,36 +54,36 @@
 
 ## 🛠️ Tech Stack & Tools
 
+###  💻  Languages & Frameworks
+<img src="./Python.png" width="30" height="30" valign="middle" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./javascript.png" width="25" height="25" valign="middle" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./HTML5.png" width="30" height="30" valign="middle" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./CSS5.png" width="35" height="35" valign="middle" alt="CSS" />
 
-####  💻 Languages & Frameworks
-<img src="./Python.png" width="35" height="35" valign="middle" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./javascript.png" width="30" height="30" valign="middle" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./HTML5.png" width="40" height="40" valign="middle" alt="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./CSS5.png" width="40" height="40" valign="middle" alt="CSS" />
-
-
-#### 🚀 Frameworks & Libraries
-<img src="./FastApi.png" width="35" height="35" valign="middle" alt="FastApi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./NodeJs.png" width="30" height="30" valign="middle" alt="NodeJs" />
-
+### 🚀 Frameworks & Libraries
+<img src="./FastApi.png" width="85" height="82" valign="middle" alt="FastApi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./NodeJs.png" width="35" height="42" valign="middle" alt="NodeJs" />
 
 ### 🗄️ Databases & Cloud
-<img src="./Postgre.png" width="35" height="35" valign="middle" alt="Postgre" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./ElasticSearch.png" width="30" height="30" valign="middle" alt="ElasticSearch" />&nbsp;&nbsp;&nbsp;<img src="./Redis.png" width="40" height="40" valign="middle" alt="Redis" />
-
+<img src="./Postgre.png" width="35" height="35" valign="middle" alt="Postgre" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./ElasticSearch.png" width="30" height="30" valign="middle" alt="ElasticSearch" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Redis.png" width="20" height="20" valign="middle" alt="Redis" />
 
 ### ⚙️ DevOps & Tools
-<img src="./NodeJs.png" width="35" height="35" valign="middle" alt="NodeJs" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Docker.png" width="30" height="30" valign="middle" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./VSCode.png" width="40" height="40" valign="middle" alt="VSCode" />
-
-
-## 📊 GitHub Statistics
-
-<!-- Routed through stable mirror nodes to prevent broken image flags -->
-<img src="https://vercel.app" width="48%" />
-<img src="https://vercel.app" width="48%" />
-
-<!-- Contribution Activity Metrics Graph -->
-<br/>
-<img src="https://vercel.app" width="100%" />
-
-<!-- Dynamic Developer Quote Generator Box -->
-<br/>
-<img src="https://vercel.app" width="100%" />
+<img src="./Github.png" width="30" height="30" valign="middle" alt="Github" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Docker.png" width="35" height="35" valign="middle" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./VSCode.png" width="30" height="30" valign="middle" alt="VSCode" />
 
 </div>
-](https://capsule-render.vercel.app/api?type=rounded&height=279&color=gradient&text=Suryajith%20Shibu&animation=twinkling&fontAlign=53&fontAlignY=48&section=header)
+
+----
+<div align="center">
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SuryajithShibu&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SuryajithShibu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Suryajith's Activity Graph" />
+</p>
+
+---
+### ✍️ My Point Of View
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
