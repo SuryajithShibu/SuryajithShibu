@@ -67,7 +67,6 @@
 ### 🚀 Frameworks & Libraries
 <img src="./FastApi.png" width="85" height="92" valign="middle" alt="FastApi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./NodeJs.png" width="35" height="42" valign="middle" alt="NodeJs" />
 
-
 </div>
 
 ----
