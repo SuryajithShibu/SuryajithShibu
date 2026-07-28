@@ -65,7 +65,7 @@
 <img src="./Github.png" width="30" height="30" valign="middle" alt="Github" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Docker.png" width="35" height="35" valign="middle" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./VSCode.png" width="30" height="30" valign="middle" alt="VSCode" />
 
 ### 🚀 Frameworks & Libraries
-<img src="./FastApi.png" width="85" height="92" valign="middle" alt="FastApi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./NodeJs.png" width="35" height="42" valign="middle" alt="NodeJs" />
+<div align="centre"> <img src="./FastApi.png" width="85" height="92" valign="middle" alt="FastApi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./NodeJs.png" width="35" height="42" valign="middle" alt="NodeJs" /> </div>
 
 </div>
 
