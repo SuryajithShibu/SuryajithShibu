@@ -45,28 +45,26 @@
 
 <br/>
 
-<!-- Added the critical table tags and increased size to 50px -->
-<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <a href="https://github.com" target="_blank">
-        <img src="./images-removebg-preview.png" width="50" height="50" alt="GitHub" />
+        <img src="./images-removebg-preview.png" width="30" height="30" alt="GitHub" />
       </a>
     </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>
       <a href="https://linkedin.com" target="_blank">
-        <img src="./images-2-removebg-preview.png" width="50" height="50" alt="LinkedIn" />
+        <img src="./images-2-removebg-preview.png" width="30" height="30" alt="LinkedIn" />
       </a>
     </td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>
       <a href="mailto:suryajithshibu2480@gmail.com">
-        <img src="./images-3-removebg-preview.png" width="50" height="50" alt="Email" />
+        <img src="./images-3-removebg-preview.png" width="35" height="35" alt="Email" />
       </a>
     </td>
   </tr>
-</table>
+
 
 </div>
 
